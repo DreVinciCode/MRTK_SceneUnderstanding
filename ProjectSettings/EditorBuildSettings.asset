@@ -4,5 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MRTK/Examples/Experimental/SceneUnderstanding/Scenes/SceneUnderstandingExample.unity
+    guid: d42a352dc9a8c4d4990a924687759199
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: d34254910bc4f674684f3942dd715d94, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0a045256505d53f4ca3da9c5e6063b77, type: 2}
