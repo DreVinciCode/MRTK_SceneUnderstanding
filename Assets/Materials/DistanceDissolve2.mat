@@ -60,7 +60,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _PatternTexture:
-        m_Texture: {fileID: 2800000, guid: d35170cb6c94b314ba09f7b5cbb6ed26, type: 3}
+        m_Texture: {fileID: 2800000, guid: 223a3f95ba1711249b23b6f0144ce54f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
@@ -91,7 +91,7 @@ Material:
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
     - _DissolveAmount: 0
-    - _Distance: 0.75
+    - _Distance: 0.5
     - _DstBlend: 0
     - _EnvironmentReflections: 1
     - _GlossMapScale: 0
@@ -119,7 +119,7 @@ Material:
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _EmissiveColor: {r: 1, g: 0.7984411, b: 0.02352941, a: 1}
     - _Offset: {r: 0, g: 0, b: 0, a: 0}
-    - _Position: {r: -0.13821657, g: 0.1144663, b: 0.8546967, a: 0}
+    - _Position: {r: -0.159, g: 0.008, b: 1.258, a: 0}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &8791951497815249224

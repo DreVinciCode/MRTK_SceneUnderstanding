@@ -29,13 +29,13 @@
     <AppXManifest Include="C:\Users\AClea\Documents\GitHub\MRTK_SceneUnderstanding\HoloLensBuild\build\bin\ARM64\Release\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-08-24T02:55:18.488</Modified>
+      <Modified>2021-08-24T03:17:49.551</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\AClea\Documents\GitHub\MRTK_SceneUnderstanding\HoloLensBuild\build\bin\ARM64\Release\SPACE.exe">
       <PackagePath>SPACE.exe</PackagePath>
-      <Modified>2021-08-24T02:55:17.972</Modified>
+      <Modified>2021-08-24T03:17:49.037</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\2020.3.14f1\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\il2cpp\ARM64\Release\UnityPlayer.winmd">
       <PackagePath>UnityPlayer.winmd</PackagePath>
@@ -86,7 +86,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AClea\Documents\GitHub\MRTK_SceneUnderstanding\HoloLensBuild\SPACE\StoreManifest.xml">
       <PackagePath>StoreManifest.xml</PackagePath>
-      <Modified>2021-08-24T02:53:07.297</Modified>
+      <Modified>2021-08-24T03:16:09.619</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AClea\Documents\GitHub\MRTK_SceneUnderstanding\HoloLensBuild\SPACE\Data\il2cpp_data\etc\mono\mconfig\config.xml">
       <PackagePath>Data\il2cpp_data\etc\mono\mconfig\config.xml</PackagePath>
@@ -94,7 +94,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AClea\Documents\GitHub\MRTK_SceneUnderstanding\HoloLensBuild\SPACE\Data\boot.config">
       <PackagePath>Data\boot.config</PackagePath>
-      <Modified>2021-08-24T02:53:05.821</Modified>
+      <Modified>2021-08-24T03:16:08.168</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AClea\Documents\GitHub\MRTK_SceneUnderstanding\HoloLensBuild\SPACE\Data\il2cpp_data\etc\mono\2.0\machine.config">
       <PackagePath>Data\il2cpp_data\etc\mono\2.0\machine.config</PackagePath>
@@ -122,11 +122,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AClea\Documents\GitHub\MRTK_SceneUnderstanding\HoloLensBuild\SPACE\Data\globalgamemanagers">
       <PackagePath>Data\globalgamemanagers</PackagePath>
-      <Modified>2021-08-24T02:53:02.822</Modified>
+      <Modified>2021-08-24T03:16:03.588</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AClea\Documents\GitHub\MRTK_SceneUnderstanding\HoloLensBuild\SPACE\Data\level0">
       <PackagePath>Data\level0</PackagePath>
-      <Modified>2021-08-24T02:52:59.874</Modified>
+      <Modified>2021-08-24T03:16:00.949</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AClea\Documents\GitHub\MRTK_SceneUnderstanding\HoloLensBuild\SPACE\Data\il2cpp_data\etc\mono\config">
       <PackagePath>Data\il2cpp_data\etc\mono\config</PackagePath>
@@ -138,51 +138,51 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AClea\Documents\GitHub\MRTK_SceneUnderstanding\HoloLensBuild\SPACE\Data\Resources\unity_builtin_extra">
       <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
-      <Modified>2021-08-24T02:53:05.819</Modified>
+      <Modified>2021-08-24T03:16:08.166</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AClea\Documents\GitHub\MRTK_SceneUnderstanding\HoloLensBuild\SPACE\Data\globalgamemanagers.assets">
       <PackagePath>Data\globalgamemanagers.assets</PackagePath>
-      <Modified>2021-08-24T02:53:03.949</Modified>
+      <Modified>2021-08-24T03:16:04.546</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AClea\Documents\GitHub\MRTK_SceneUnderstanding\HoloLensBuild\SPACE\Data\resources.assets">
       <PackagePath>Data\resources.assets</PackagePath>
-      <Modified>2021-08-24T02:53:04.440</Modified>
+      <Modified>2021-08-24T03:16:05.032</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AClea\Documents\GitHub\MRTK_SceneUnderstanding\HoloLensBuild\SPACE\Data\sharedassets0.assets">
       <PackagePath>Data\sharedassets0.assets</PackagePath>
-      <Modified>2021-08-24T02:53:05.588</Modified>
+      <Modified>2021-08-24T03:16:07.938</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AClea\Documents\GitHub\MRTK_SceneUnderstanding\HoloLensBuild\SPACE\Data\globalgamemanagers.assets.resS">
       <PackagePath>Data\globalgamemanagers.assets.resS</PackagePath>
-      <Modified>2021-08-24T02:53:03.948</Modified>
+      <Modified>2021-08-24T03:16:04.542</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AClea\Documents\GitHub\MRTK_SceneUnderstanding\HoloLensBuild\SPACE\Data\resources.assets.resS">
       <PackagePath>Data\resources.assets.resS</PackagePath>
-      <Modified>2021-08-24T02:53:04.438</Modified>
+      <Modified>2021-08-24T03:16:05.031</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AClea\Documents\GitHub\MRTK_SceneUnderstanding\HoloLensBuild\SPACE\Data\sharedassets0.assets.resS">
       <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
-      <Modified>2021-08-24T02:53:05.585</Modified>
+      <Modified>2021-08-24T03:16:07.934</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AClea\Documents\GitHub\MRTK_SceneUnderstanding\HoloLensBuild\SPACE\Data\nativePlugins.txt">
       <PackagePath>Data\nativePlugins.txt</PackagePath>
-      <Modified>2021-08-24T02:53:22.643</Modified>
+      <Modified>2021-08-24T03:16:24.877</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AClea\Documents\GitHub\MRTK_SceneUnderstanding\HoloLensBuild\SPACE\Data\resources.resource">
       <PackagePath>Data\resources.resource</PackagePath>
-      <Modified>2021-08-24T02:53:04.351</Modified>
+      <Modified>2021-08-24T03:16:04.946</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AClea\Documents\GitHub\MRTK_SceneUnderstanding\HoloLensBuild\SPACE\Data\sharedassets0.resource">
       <PackagePath>Data\sharedassets0.resource</PackagePath>
-      <Modified>2021-08-24T02:53:05.558</Modified>
+      <Modified>2021-08-24T03:16:07.906</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AClea\Documents\GitHub\MRTK_SceneUnderstanding\HoloLensBuild\SPACE\Data\RuntimeInitializeOnLoads.json">
       <PackagePath>Data\RuntimeInitializeOnLoads.json</PackagePath>
-      <Modified>2021-08-24T02:52:58.585</Modified>
+      <Modified>2021-08-24T03:15:58.331</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AClea\Documents\GitHub\MRTK_SceneUnderstanding\HoloLensBuild\SPACE\Data\ScriptingAssemblies.json">
       <PackagePath>Data\ScriptingAssemblies.json</PackagePath>
-      <Modified>2021-08-24T02:53:02.659</Modified>
+      <Modified>2021-08-24T03:16:03.427</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AClea\Documents\GitHub\MRTK_SceneUnderstanding\HoloLensBuild\SPACE\Data\UnitySubsystems\WindowsMRXRSDK\UnitySubsystemsManifest.json">
       <PackagePath>Data\UnitySubsystems\WindowsMRXRSDK\UnitySubsystemsManifest.json</PackagePath>
@@ -262,7 +262,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\AClea\Documents\GitHub\MRTK_SceneUnderstanding\HoloLensBuild\build\bin\ARM64\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2021-08-24T02:55:18.305</Modified>
+      <Modified>2021-08-24T03:17:49.372</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
