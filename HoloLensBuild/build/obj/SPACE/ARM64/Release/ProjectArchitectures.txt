@@ -1,0 +1,1 @@
+C:\Users\AClea\Documents\GitHub\MRTK_SceneUnderstanding\HoloLensBuild\SPACE\SPACE.vcxproj;arm64
