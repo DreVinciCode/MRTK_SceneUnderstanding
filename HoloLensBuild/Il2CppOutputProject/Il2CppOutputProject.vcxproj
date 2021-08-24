@@ -176,13 +176,7 @@
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\System_CodeGen.c">
     </ClCompile>
-    <ClCompile Include="Source\il2cppOutput\Unity.Mathematics_CodeGen.c">
-    </ClCompile>
-    <ClCompile Include="Source\il2cppOutput\Unity.RenderPipeline.Universal.ShaderLibrary_CodeGen.c">
-    </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Unity.RenderPipelines.Core.Runtime_CodeGen.c">
-    </ClCompile>
-    <ClCompile Include="Source\il2cppOutput\Unity.RenderPipelines.Universal.Runtime_CodeGen.c">
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Unity.Subsystem.Registration_CodeGen.c">
     </ClCompile>
@@ -278,8 +272,6 @@
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\GenericMethods10.cpp">
     </ClCompile>
-    <ClCompile Include="Source\il2cppOutput\GenericMethods11.cpp">
-    </ClCompile>
     <ClCompile Include="Source\il2cppOutput\GenericMethods2.cpp">
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\GenericMethods3.cpp">
@@ -358,12 +350,6 @@
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Generics36.cpp">
     </ClCompile>
-    <ClCompile Include="Source\il2cppOutput\Generics37.cpp">
-    </ClCompile>
-    <ClCompile Include="Source\il2cppOutput\Generics38.cpp">
-    </ClCompile>
-    <ClCompile Include="Source\il2cppOutput\Generics39.cpp">
-    </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Generics4.cpp">
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Generics5.cpp">
@@ -414,8 +400,6 @@
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Il2CppCCalculateFieldValues1.cpp">
     </ClCompile>
-    <ClCompile Include="Source\il2cppOutput\Il2CppCCalculateFieldValues2.cpp">
-    </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Il2CppCCalculateTypeValues.cpp">
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Il2CppCCalculateTypeValues1.cpp">
@@ -429,8 +413,6 @@
     <ClCompile Include="Source\il2cppOutput\Il2CppCCWs1.cpp">
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Il2CppCCWs10.cpp">
-    </ClCompile>
-    <ClCompile Include="Source\il2cppOutput\Il2CppCCWs100.cpp">
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Il2CppCCWs11.cpp">
     </ClCompile>
@@ -620,12 +602,6 @@
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Il2CppCCWs96.cpp">
     </ClCompile>
-    <ClCompile Include="Source\il2cppOutput\Il2CppCCWs97.cpp">
-    </ClCompile>
-    <ClCompile Include="Source\il2cppOutput\Il2CppCCWs98.cpp">
-    </ClCompile>
-    <ClCompile Include="Source\il2cppOutput\Il2CppCCWs99.cpp">
-    </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Il2CppCodeRegistration.cpp">
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Il2CppGenericAdjustorThunkTable.cpp">
@@ -668,19 +644,7 @@
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Il2CppGenericComDefinitions114.cpp">
     </ClCompile>
-    <ClCompile Include="Source\il2cppOutput\Il2CppGenericComDefinitions115.cpp">
-    </ClCompile>
-    <ClCompile Include="Source\il2cppOutput\Il2CppGenericComDefinitions116.cpp">
-    </ClCompile>
-    <ClCompile Include="Source\il2cppOutput\Il2CppGenericComDefinitions117.cpp">
-    </ClCompile>
-    <ClCompile Include="Source\il2cppOutput\Il2CppGenericComDefinitions118.cpp">
-    </ClCompile>
-    <ClCompile Include="Source\il2cppOutput\Il2CppGenericComDefinitions119.cpp">
-    </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Il2CppGenericComDefinitions12.cpp">
-    </ClCompile>
-    <ClCompile Include="Source\il2cppOutput\Il2CppGenericComDefinitions120.cpp">
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Il2CppGenericComDefinitions13.cpp">
     </ClCompile>
@@ -1107,14 +1071,6 @@
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\System_Attr.cpp">
     </ClCompile>
-    <ClCompile Include="Source\il2cppOutput\Unity.Mathematics.cpp">
-    </ClCompile>
-    <ClCompile Include="Source\il2cppOutput\Unity.Mathematics_Attr.cpp">
-    </ClCompile>
-    <ClCompile Include="Source\il2cppOutput\Unity.RenderPipeline.Universal.ShaderLibrary.cpp">
-    </ClCompile>
-    <ClCompile Include="Source\il2cppOutput\Unity.RenderPipeline.Universal.ShaderLibrary_Attr.cpp">
-    </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Unity.RenderPipelines.Core.Runtime.cpp">
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Unity.RenderPipelines.Core.Runtime1.cpp">
@@ -1122,16 +1078,6 @@
     <ClCompile Include="Source\il2cppOutput\Unity.RenderPipelines.Core.Runtime2.cpp">
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Unity.RenderPipelines.Core.Runtime_Attr.cpp">
-    </ClCompile>
-    <ClCompile Include="Source\il2cppOutput\Unity.RenderPipelines.Universal.Runtime.cpp">
-    </ClCompile>
-    <ClCompile Include="Source\il2cppOutput\Unity.RenderPipelines.Universal.Runtime1.cpp">
-    </ClCompile>
-    <ClCompile Include="Source\il2cppOutput\Unity.RenderPipelines.Universal.Runtime2.cpp">
-    </ClCompile>
-    <ClCompile Include="Source\il2cppOutput\Unity.RenderPipelines.Universal.Runtime3.cpp">
-    </ClCompile>
-    <ClCompile Include="Source\il2cppOutput\Unity.RenderPipelines.Universal.Runtime_Attr.cpp">
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Unity.Subsystem.Registration.cpp">
     </ClCompile>
@@ -1196,8 +1142,6 @@
     <ClCompile Include="Source\il2cppOutput\UnityEngine.CoreModule1.cpp">
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\UnityEngine.CoreModule2.cpp">
-    </ClCompile>
-    <ClCompile Include="Source\il2cppOutput\UnityEngine.CoreModule3.cpp">
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\UnityEngine.CoreModule_Attr.cpp">
     </ClCompile>

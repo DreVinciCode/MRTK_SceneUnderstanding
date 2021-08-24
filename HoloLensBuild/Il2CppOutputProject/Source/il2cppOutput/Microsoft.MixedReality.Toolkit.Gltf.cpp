@@ -759,9 +759,9 @@ public:
 struct NOVTABLE IBuffer_t33ECA22EB7DDA1EF333215FF8109DC736AF11FBC : Il2CppIInspectable
 {
 	static const Il2CppGuid IID;
-	virtual il2cpp_hresult_t STDCALL IBuffer_get_Capacity_m4FBAA7520F46F3CC6D15DCA72AE6DE7682A9A470(uint32_t* comReturnValue) = 0;
-	virtual il2cpp_hresult_t STDCALL IBuffer_get_Length_m5433B1C2AADBE9CE086F6DAE6E300C687A17DB19(uint32_t* comReturnValue) = 0;
-	virtual il2cpp_hresult_t STDCALL IBuffer_put_Length_mF6D33616BBEEBF636AA7AF9EFA8525C3F721FE01(uint32_t ___value0) = 0;
+	virtual il2cpp_hresult_t STDCALL IBuffer_get_Capacity_m970326E6407CE3EC1CF64E69994517B316028691(uint32_t* comReturnValue) = 0;
+	virtual il2cpp_hresult_t STDCALL IBuffer_get_Length_mF5A8C72B170E0798C7D1709BFD0E501FDF566349(uint32_t* comReturnValue) = 0;
+	virtual il2cpp_hresult_t STDCALL IBuffer_put_Length_m257651767765E9EB93F950F3ADA01F4ACF8A2D59(uint32_t ___value0) = 0;
 };
 // Windows.Storage.Streams.IDataReaderFactory
 struct NOVTABLE IDataReaderFactory_tA5B6ABAE2AF4C0F70F96795640D438CE24C042C6 : Il2CppIInspectable
@@ -24437,7 +24437,7 @@ IL_0341:
 			Texture2D_t9B604D0D8E28032123641A7E7338FA872E2698BF * L_107 = __this->get_U3CtextureU3E5__3_6();
 			NullCheck(L_107);
 			bool L_108;
-			L_108 = VirtFuncInvoker0< bool >::Invoke(11 /* System.Boolean UnityEngine.Texture::get_isReadable() */, L_107);
+			L_108 = VirtFuncInvoker0< bool >::Invoke(10 /* System.Boolean UnityEngine.Texture::get_isReadable() */, L_107);
 			if (!L_108)
 			{
 				goto IL_0577;
@@ -24471,7 +24471,7 @@ IL_0372:
 			Texture2D_t9B604D0D8E28032123641A7E7338FA872E2698BF * L_113 = V_3;
 			NullCheck(L_113);
 			bool L_114;
-			L_114 = VirtFuncInvoker0< bool >::Invoke(11 /* System.Boolean UnityEngine.Texture::get_isReadable() */, L_113);
+			L_114 = VirtFuncInvoker0< bool >::Invoke(10 /* System.Boolean UnityEngine.Texture::get_isReadable() */, L_113);
 			if (!L_114)
 			{
 				goto IL_0386;
@@ -25446,7 +25446,7 @@ IL_030d:
 			Texture2D_t9B604D0D8E28032123641A7E7338FA872E2698BF * L_105 = __this->get_U3CtextureU3E5__3_6();
 			NullCheck(L_105);
 			bool L_106;
-			L_106 = VirtFuncInvoker0< bool >::Invoke(11 /* System.Boolean UnityEngine.Texture::get_isReadable() */, L_105);
+			L_106 = VirtFuncInvoker0< bool >::Invoke(10 /* System.Boolean UnityEngine.Texture::get_isReadable() */, L_105);
 			if (!L_106)
 			{
 				goto IL_050e;

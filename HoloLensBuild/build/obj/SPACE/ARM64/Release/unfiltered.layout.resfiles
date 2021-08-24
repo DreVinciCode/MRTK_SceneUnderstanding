@@ -13,7 +13,6 @@ AudioPluginMsHRTF.dll
 Data\boot.config
 Data\globalgamemanagers
 Data\globalgamemanagers.assets
-Data\globalgamemanagers.assets.resS
 Data\il2cpp_data\etc\mono\2.0\Browsers\Compat.browser
 Data\il2cpp_data\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
 Data\il2cpp_data\etc\mono\2.0\machine.config

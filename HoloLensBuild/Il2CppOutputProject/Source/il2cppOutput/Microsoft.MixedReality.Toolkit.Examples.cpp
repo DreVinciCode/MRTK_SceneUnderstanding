@@ -36555,14 +36555,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DrawOnTexture_DrawAt_m046B67F793A5B11A5F
 		L_16 = DrawOnTexture_get_MyDrawTexture_mF551206D04CE846942EA1FDFD052F69EE8D3B094(__this, /*hidden argument*/NULL);
 		NullCheck(L_16);
 		int32_t L_17;
-		L_17 = VirtFuncInvoker0< int32_t >::Invoke(5 /* System.Int32 UnityEngine.Texture::get_width() */, L_16);
+		L_17 = VirtFuncInvoker0< int32_t >::Invoke(4 /* System.Int32 UnityEngine.Texture::get_width() */, L_16);
 		Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9  L_18 = ___posUV0;
 		float L_19 = L_18.get_y_1();
 		Texture2D_t9B604D0D8E28032123641A7E7338FA872E2698BF * L_20;
 		L_20 = DrawOnTexture_get_MyDrawTexture_mF551206D04CE846942EA1FDFD052F69EE8D3B094(__this, /*hidden argument*/NULL);
 		NullCheck(L_20);
 		int32_t L_21;
-		L_21 = VirtFuncInvoker0< int32_t >::Invoke(7 /* System.Int32 UnityEngine.Texture::get_height() */, L_20);
+		L_21 = VirtFuncInvoker0< int32_t >::Invoke(6 /* System.Int32 UnityEngine.Texture::get_height() */, L_20);
 		Color_tF40DAF76C04FFECF3FE6024F85A294741C9CC659  L_22 = ___col1;
 		NullCheck(L_13);
 		Texture2D_SetPixel_m78878905E58C5DE9BCFED8D9262D025789E22F92(L_13, il2cpp_codegen_cast_double_to_int<int32_t>(((float)il2cpp_codegen_multiply((float)L_15, (float)((float)((float)L_17))))), il2cpp_codegen_cast_double_to_int<int32_t>(((float)il2cpp_codegen_multiply((float)L_19, (float)((float)((float)L_21))))), L_22, /*hidden argument*/NULL);
@@ -36665,7 +36665,7 @@ IL_004b:
 		L_9 = DrawOnTexture_get_MyDrawTexture_mF551206D04CE846942EA1FDFD052F69EE8D3B094(__this, /*hidden argument*/NULL);
 		NullCheck(L_9);
 		int32_t L_10;
-		L_10 = VirtFuncInvoker0< int32_t >::Invoke(7 /* System.Int32 UnityEngine.Texture::get_height() */, L_9);
+		L_10 = VirtFuncInvoker0< int32_t >::Invoke(6 /* System.Int32 UnityEngine.Texture::get_height() */, L_9);
 		if ((((int32_t)L_8) < ((int32_t)L_10)))
 		{
 			goto IL_0021;
@@ -36685,7 +36685,7 @@ IL_005d:
 		L_13 = DrawOnTexture_get_MyDrawTexture_mF551206D04CE846942EA1FDFD052F69EE8D3B094(__this, /*hidden argument*/NULL);
 		NullCheck(L_13);
 		int32_t L_14;
-		L_14 = VirtFuncInvoker0< int32_t >::Invoke(5 /* System.Int32 UnityEngine.Texture::get_width() */, L_13);
+		L_14 = VirtFuncInvoker0< int32_t >::Invoke(4 /* System.Int32 UnityEngine.Texture::get_width() */, L_13);
 		if ((((int32_t)L_12) < ((int32_t)L_14)))
 		{
 			goto IL_001d;
@@ -36705,14 +36705,14 @@ IL_0072:
 		L_17 = DrawOnTexture_get_MyDrawTexture_mF551206D04CE846942EA1FDFD052F69EE8D3B094(__this, /*hidden argument*/NULL);
 		NullCheck(L_17);
 		int32_t L_18;
-		L_18 = VirtFuncInvoker0< int32_t >::Invoke(5 /* System.Int32 UnityEngine.Texture::get_width() */, L_17);
+		L_18 = VirtFuncInvoker0< int32_t >::Invoke(4 /* System.Int32 UnityEngine.Texture::get_width() */, L_17);
 		Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9  L_19 = ___posUV0;
 		float L_20 = L_19.get_y_1();
 		Texture2D_t9B604D0D8E28032123641A7E7338FA872E2698BF * L_21;
 		L_21 = DrawOnTexture_get_MyDrawTexture_mF551206D04CE846942EA1FDFD052F69EE8D3B094(__this, /*hidden argument*/NULL);
 		NullCheck(L_21);
 		int32_t L_22;
-		L_22 = VirtFuncInvoker0< int32_t >::Invoke(7 /* System.Int32 UnityEngine.Texture::get_height() */, L_21);
+		L_22 = VirtFuncInvoker0< int32_t >::Invoke(6 /* System.Int32 UnityEngine.Texture::get_height() */, L_21);
 		Vector2__ctor_m9F1F2D5EB5D1FF7091BB527AC8A72CBB309D115E_inline((Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9 *)(&V_0), ((float)il2cpp_codegen_multiply((float)L_16, (float)((float)((float)L_18)))), ((float)il2cpp_codegen_multiply((float)L_20, (float)((float)((float)L_22)))), /*hidden argument*/NULL);
 		// for (int ix = -(int)(dynamicRadius / 2); ix < dynamicRadius / 2; ix++)
 		float L_23 = __this->get_dynamicRadius_15();
@@ -36737,7 +36737,7 @@ IL_00c8:
 		L_27 = DrawOnTexture_get_MyDrawTexture_mF551206D04CE846942EA1FDFD052F69EE8D3B094(__this, /*hidden argument*/NULL);
 		NullCheck(L_27);
 		int32_t L_28;
-		L_28 = VirtFuncInvoker0< int32_t >::Invoke(5 /* System.Int32 UnityEngine.Texture::get_width() */, L_27);
+		L_28 = VirtFuncInvoker0< int32_t >::Invoke(4 /* System.Int32 UnityEngine.Texture::get_width() */, L_27);
 		int32_t L_29 = V_3;
 		V_5 = ((float)il2cpp_codegen_add((float)((float)il2cpp_codegen_multiply((float)L_26, (float)((float)((float)L_28)))), (float)((float)((float)L_29))));
 		// float ty = posUV.y * MyDrawTexture.height + iy;
@@ -36747,7 +36747,7 @@ IL_00c8:
 		L_32 = DrawOnTexture_get_MyDrawTexture_mF551206D04CE846942EA1FDFD052F69EE8D3B094(__this, /*hidden argument*/NULL);
 		NullCheck(L_32);
 		int32_t L_33;
-		L_33 = VirtFuncInvoker0< int32_t >::Invoke(7 /* System.Int32 UnityEngine.Texture::get_height() */, L_32);
+		L_33 = VirtFuncInvoker0< int32_t >::Invoke(6 /* System.Int32 UnityEngine.Texture::get_height() */, L_32);
 		int32_t L_34 = V_4;
 		V_6 = ((float)il2cpp_codegen_add((float)((float)il2cpp_codegen_multiply((float)L_31, (float)((float)((float)L_33)))), (float)((float)((float)L_34))));
 		// Vector2 currPnt = new Vector2(tx, ty);
@@ -36823,7 +36823,7 @@ IL_00c8:
 		Texture2D_t9B604D0D8E28032123641A7E7338FA872E2698BF * L_63 = __this->get_HeatmapLookUpTable_4();
 		NullCheck(L_63);
 		int32_t L_64;
-		L_64 = VirtFuncInvoker0< int32_t >::Invoke(5 /* System.Int32 UnityEngine.Texture::get_width() */, L_63);
+		L_64 = VirtFuncInvoker0< int32_t >::Invoke(4 /* System.Int32 UnityEngine.Texture::get_width() */, L_63);
 		NullCheck(L_61);
 		Color_tF40DAF76C04FFECF3FE6024F85A294741C9CC659  L_65;
 		L_65 = Texture2D_GetPixel_m50474A401DE4CB3B567F1695546DF1D2C610A022(L_61, il2cpp_codegen_cast_double_to_int<int32_t>(((float)il2cpp_codegen_multiply((float)L_62, (float)((float)((float)L_64))))), 0, /*hidden argument*/NULL);
@@ -37068,7 +37068,7 @@ IL_004f:
 		Texture2D_t9B604D0D8E28032123641A7E7338FA872E2698BF * L_28 = __this->get_HeatmapLookUpTable_4();
 		NullCheck(L_28);
 		int32_t L_29;
-		L_29 = VirtFuncInvoker0< int32_t >::Invoke(5 /* System.Int32 UnityEngine.Texture::get_width() */, L_28);
+		L_29 = VirtFuncInvoker0< int32_t >::Invoke(4 /* System.Int32 UnityEngine.Texture::get_width() */, L_28);
 		NullCheck(L_26);
 		Color_tF40DAF76C04FFECF3FE6024F85A294741C9CC659  L_30;
 		L_30 = Texture2D_GetPixel_m50474A401DE4CB3B567F1695546DF1D2C610A022(L_26, il2cpp_codegen_cast_double_to_int<int32_t>(((float)il2cpp_codegen_multiply((float)L_27, (float)((float)((float)((int32_t)il2cpp_codegen_subtract((int32_t)L_29, (int32_t)1))))))), 0, /*hidden argument*/NULL);

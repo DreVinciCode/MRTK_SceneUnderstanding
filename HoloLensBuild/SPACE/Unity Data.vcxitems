@@ -41,10 +41,6 @@
       <DeploymentContent>true</DeploymentContent>
       <ExcludeFromResourceIndex>true</ExcludeFromResourceIndex>
     </None>
-    <None Include="$(MSBuildThisFileDirectory)Data\globalgamemanagers.assets.resS">
-      <DeploymentContent>true</DeploymentContent>
-      <ExcludeFromResourceIndex>true</ExcludeFromResourceIndex>
-    </None>
     <None Include="$(MSBuildThisFileDirectory)Data\level0">
       <DeploymentContent>true</DeploymentContent>
       <ExcludeFromResourceIndex>true</ExcludeFromResourceIndex>

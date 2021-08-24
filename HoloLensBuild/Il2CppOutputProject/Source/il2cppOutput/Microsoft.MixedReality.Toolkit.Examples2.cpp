@@ -6623,7 +6623,7 @@ public:
 struct NOVTABLE IInputStream_t46D77C40CE44BF5C3DD6023FE88BCDEDFF469CE2 : Il2CppIInspectable
 {
 	static const Il2CppGuid IID;
-	virtual il2cpp_hresult_t STDCALL IInputStream_ReadAsync_m0D2F91C5A51EB1AE5C1DBE7294381D13865E580B(IBuffer_t33ECA22EB7DDA1EF333215FF8109DC736AF11FBC* ___buffer0, uint32_t ___count1, uint32_t ___options2, IAsyncOperationWithProgress_2_tB72FC848D7866662845F94C01350F153153F6A93** comReturnValue) = 0;
+	virtual il2cpp_hresult_t STDCALL IInputStream_ReadAsync_m3148E992F8B97A601931757BD4D7BDBCFB044BF5(IBuffer_t33ECA22EB7DDA1EF333215FF8109DC736AF11FBC* ___buffer0, uint32_t ___count1, uint32_t ___options2, IAsyncOperationWithProgress_2_tB72FC848D7866662845F94C01350F153153F6A93** comReturnValue) = 0;
 };
 
 // UnityEngine.Material
@@ -13911,7 +13911,7 @@ IL_002e:
 		L_7 = DrawOnTexture_get_MyDrawTexture_mF551206D04CE846942EA1FDFD052F69EE8D3B094(L_6, /*hidden argument*/NULL);
 		NullCheck(L_7);
 		int32_t L_8;
-		L_8 = VirtFuncInvoker0< int32_t >::Invoke(5 /* System.Int32 UnityEngine.Texture::get_width() */, L_7);
+		L_8 = VirtFuncInvoker0< int32_t >::Invoke(4 /* System.Int32 UnityEngine.Texture::get_width() */, L_7);
 		Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9 * L_9 = __this->get_address_of_currPosUV_2();
 		float L_10 = L_9->get_y_1();
 		DrawOnTexture_t3B37FA46679BA8E15B93CE6BF42254E4BFCD769D * L_11 = V_1;
@@ -13920,7 +13920,7 @@ IL_002e:
 		L_12 = DrawOnTexture_get_MyDrawTexture_mF551206D04CE846942EA1FDFD052F69EE8D3B094(L_11, /*hidden argument*/NULL);
 		NullCheck(L_12);
 		int32_t L_13;
-		L_13 = VirtFuncInvoker0< int32_t >::Invoke(7 /* System.Int32 UnityEngine.Texture::get_height() */, L_12);
+		L_13 = VirtFuncInvoker0< int32_t >::Invoke(6 /* System.Int32 UnityEngine.Texture::get_height() */, L_12);
 		Vector2__ctor_m9F1F2D5EB5D1FF7091BB527AC8A72CBB309D115E_inline((Vector2_tBB32F2736AEC229A7BFBCE18197EC0F6AC7EC2D9 *)(&V_2), ((float)il2cpp_codegen_multiply((float)L_5, (float)((float)((float)L_8)))), ((float)il2cpp_codegen_multiply((float)L_10, (float)((float)((float)L_13)))), /*hidden argument*/NULL);
 		// int sign_x = (positiveX) ? 1 : -1;
 		bool L_14 = __this->get_positiveX_4();
@@ -14021,7 +14021,7 @@ IL_00a8:
 		L_21 = DrawOnTexture_get_MyDrawTexture_mF551206D04CE846942EA1FDFD052F69EE8D3B094(L_20, /*hidden argument*/NULL);
 		NullCheck(L_21);
 		int32_t L_22;
-		L_22 = VirtFuncInvoker0< int32_t >::Invoke(5 /* System.Int32 UnityEngine.Texture::get_width() */, L_21);
+		L_22 = VirtFuncInvoker0< int32_t >::Invoke(4 /* System.Int32 UnityEngine.Texture::get_width() */, L_21);
 		int32_t L_23 = V_6;
 		int32_t L_24 = V_3;
 		V_7 = ((float)il2cpp_codegen_add((float)((float)il2cpp_codegen_multiply((float)L_19, (float)((float)((float)L_22)))), (float)((float)((float)((int32_t)il2cpp_codegen_multiply((int32_t)L_23, (int32_t)L_24))))));
@@ -14040,7 +14040,7 @@ IL_00a8:
 		L_28 = DrawOnTexture_get_MyDrawTexture_mF551206D04CE846942EA1FDFD052F69EE8D3B094(L_27, /*hidden argument*/NULL);
 		NullCheck(L_28);
 		int32_t L_29;
-		L_29 = VirtFuncInvoker0< int32_t >::Invoke(5 /* System.Int32 UnityEngine.Texture::get_width() */, L_28);
+		L_29 = VirtFuncInvoker0< int32_t >::Invoke(4 /* System.Int32 UnityEngine.Texture::get_width() */, L_28);
 		if ((((float)L_26) >= ((float)((float)((float)L_29)))))
 		{
 			goto IL_0194;
@@ -14064,7 +14064,7 @@ IL_00ed:
 		L_34 = DrawOnTexture_get_MyDrawTexture_mF551206D04CE846942EA1FDFD052F69EE8D3B094(L_33, /*hidden argument*/NULL);
 		NullCheck(L_34);
 		int32_t L_35;
-		L_35 = VirtFuncInvoker0< int32_t >::Invoke(7 /* System.Int32 UnityEngine.Texture::get_height() */, L_34);
+		L_35 = VirtFuncInvoker0< int32_t >::Invoke(6 /* System.Int32 UnityEngine.Texture::get_height() */, L_34);
 		int32_t L_36 = V_8;
 		int32_t L_37 = V_4;
 		V_9 = ((float)il2cpp_codegen_add((float)((float)il2cpp_codegen_multiply((float)L_32, (float)((float)((float)L_35)))), (float)((float)((float)((int32_t)il2cpp_codegen_multiply((int32_t)L_36, (int32_t)L_37))))));
@@ -14083,7 +14083,7 @@ IL_00ed:
 		L_41 = DrawOnTexture_get_MyDrawTexture_mF551206D04CE846942EA1FDFD052F69EE8D3B094(L_40, /*hidden argument*/NULL);
 		NullCheck(L_41);
 		int32_t L_42;
-		L_42 = VirtFuncInvoker0< int32_t >::Invoke(7 /* System.Int32 UnityEngine.Texture::get_height() */, L_41);
+		L_42 = VirtFuncInvoker0< int32_t >::Invoke(6 /* System.Int32 UnityEngine.Texture::get_height() */, L_41);
 		if ((((float)L_39) >= ((float)((float)((float)L_42)))))
 		{
 			goto IL_017c;
@@ -14148,7 +14148,7 @@ IL_016a:
 		L_58 = DrawOnTexture_get_MyDrawTexture_mF551206D04CE846942EA1FDFD052F69EE8D3B094(L_57, /*hidden argument*/NULL);
 		NullCheck(L_58);
 		int32_t L_59;
-		L_59 = VirtFuncInvoker0< int32_t >::Invoke(7 /* System.Int32 UnityEngine.Texture::get_height() */, L_58);
+		L_59 = VirtFuncInvoker0< int32_t >::Invoke(6 /* System.Int32 UnityEngine.Texture::get_height() */, L_58);
 		if ((((int32_t)L_56) < ((int32_t)L_59)))
 		{
 			goto IL_00ed;
@@ -14172,7 +14172,7 @@ IL_0182:
 		L_63 = DrawOnTexture_get_MyDrawTexture_mF551206D04CE846942EA1FDFD052F69EE8D3B094(L_62, /*hidden argument*/NULL);
 		NullCheck(L_63);
 		int32_t L_64;
-		L_64 = VirtFuncInvoker0< int32_t >::Invoke(5 /* System.Int32 UnityEngine.Texture::get_width() */, L_63);
+		L_64 = VirtFuncInvoker0< int32_t >::Invoke(4 /* System.Int32 UnityEngine.Texture::get_width() */, L_63);
 		if ((((int32_t)L_61) < ((int32_t)L_64)))
 		{
 			goto IL_00a8;
@@ -14354,7 +14354,7 @@ IL_0080:
 		L_16 = DrawOnTexture_get_MyDrawTexture_mF551206D04CE846942EA1FDFD052F69EE8D3B094(L_15, /*hidden argument*/NULL);
 		NullCheck(L_16);
 		int32_t L_17;
-		L_17 = VirtFuncInvoker0< int32_t >::Invoke(7 /* System.Int32 UnityEngine.Texture::get_height() */, L_16);
+		L_17 = VirtFuncInvoker0< int32_t >::Invoke(6 /* System.Int32 UnityEngine.Texture::get_height() */, L_16);
 		if ((((int32_t)L_14) < ((int32_t)L_17)))
 		{
 			goto IL_0056;
@@ -14376,7 +14376,7 @@ IL_0092:
 		L_21 = DrawOnTexture_get_MyDrawTexture_mF551206D04CE846942EA1FDFD052F69EE8D3B094(L_20, /*hidden argument*/NULL);
 		NullCheck(L_21);
 		int32_t L_22;
-		L_22 = VirtFuncInvoker0< int32_t >::Invoke(5 /* System.Int32 UnityEngine.Texture::get_width() */, L_21);
+		L_22 = VirtFuncInvoker0< int32_t >::Invoke(4 /* System.Int32 UnityEngine.Texture::get_width() */, L_21);
 		if ((((int32_t)L_19) < ((int32_t)L_22)))
 		{
 			goto IL_0052;
