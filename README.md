@@ -5,3 +5,7 @@ You should be able to assign the material of the mesh within the MRTK tools prof
 
 ![Alt text](Demo/demo.gif)
 <br/> A Short Demo of Current Progress
+
+
+Next Steps:
+ 1) Add Hand menu to allow change in scenes
